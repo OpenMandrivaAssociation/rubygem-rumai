@@ -6,7 +6,7 @@ Release:    %mkrel 1
 Summary:    Ruby interface to the wmii window manager
 Group:      Development/Ruby
 License:    ISC License
-URL:        http://snk.tuxfamily.org/lib/rumai/
+URL:        https://snk.tuxfamily.org/lib/rumai/
 Source0:    http://rubygems.org/gems/%{oname}-%{version}.gem
 BuildRoot:  %{_tmppath}/%{name}-%{version}-%{release}-root
 Requires:   rubygems
